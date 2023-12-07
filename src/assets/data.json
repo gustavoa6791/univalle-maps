@@ -1,0 +1,39 @@
+{
+  "locations": [
+    {
+      "name": "Porteria 1 (Pasoancho antigua)", 
+      "code": "P1A",
+      "latitude": "3.375082619306781",
+      "longitude": "-76.53721846844533"
+    },
+
+    {
+      "name": "Porteria 2 (Pasoancho nueva)", 
+      "code": "P2B",
+      "latitude": "3.3726451369337695",
+      "longitude": "-76.53713782260398"
+    },
+
+    {
+      "name": "Biblioteca Mario Carvajal", 
+      "code": "EbA",
+      "latitude": "3.3764688086684487",
+      "longitude": "-76.53440882452206"
+    },
+
+    {
+      "name": "E1 Administracion Central", 
+      "code": "E1AC",
+      "latitude": "3.3751015203282293",
+      "longitude": "-76.53432312660853"
+    },
+
+    {
+      "name": "E24 Auditorios (1,2,3,4,5)", 
+      "code": "E24",
+      "latitude": "3.376099243918304",
+      "longitude": "-76.53300178447195"
+    }
+
+  ]
+}

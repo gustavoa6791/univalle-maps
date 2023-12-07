@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="439px" height="459px" version="1.1" viewBox="0 0 439 450" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+   <rect width="439" height="430" fill="#ea1f01"/>
+   <path d="m5 5v152a133.5 133.5 0 0 0 66.75 115.62 133.5 133.5 0 0 0 133.5 0 133.5 133.5 0 0 0 66.75-115.62v-152z" fill="#fff" stroke="#ea1f01" stroke-width="10"/>
+   <polygon transform="matrix(2.8743 0 0 2.742 143.28 147.88)" points="100 0 50 100 0 0" fill="#fff" stroke="#ea1f01" stroke-width="3.562"/>
+</svg>
